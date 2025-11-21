@@ -1,0 +1,31 @@
+node_modules
+dist
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+
+# Environment files
+.env
+
+# Miscellaneous
+public
+
+# Build artifacts
+build
+out
+.tmp
+.cache
+.idea/
+.vscode/
+*.iml
+logs
+*.log
+*.tsbuildinfo
+coverage/
+
+
+
+
+
