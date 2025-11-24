@@ -1,4 +1,3 @@
-import dotenv from 'dotenv';
 import express, {
   Express,
   Request,
@@ -6,6 +5,7 @@ import express, {
   ErrorRequestHandler,
   NextFunction,
 } from 'express';
+import dotenv from 'dotenv';
 import mongoose from 'mongoose';
 import cors from 'cors';
 import bodyParser from 'body-parser';
